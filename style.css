@@ -1,0 +1,136 @@
+.banner {
+    text-align: center;
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    padding: 15% 0;
+}
+
+.banner h1 {
+    margin-bottom: 50px;
+}
+
+.banner button {
+    margin-bottom: 10px;
+    margin-left: 30px;
+    padding: 20px 45px;
+}
+
+.history {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 150px 0;
+}
+
+.history p {
+    margin: 0 5%;
+}
+
+.history img {
+    margin: 30px 0;
+}
+
+.portfolio .work {
+    background-image: url("./images/portfolio.jpg");
+    background-size: 100%;
+    color: #fff;
+}
+
+.portfolio .work h5 {
+    padding: 20px 0 0 15px;
+    text-align: center;
+}
+
+.portfolio .work p {
+    text-align: center;
+}
+
+.portfolio .work ul li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 40px;
+}
+
+.service {
+    background-color: #f4f4f4;
+    padding: 150px 0;
+}
+
+.service .service-data {
+    text-align: center;
+    background-color: #fff;
+    padding: 50px;
+}
+
+.service .service-data img {
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+
+.clients {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.clients p {
+    margin: 30px 0;
+    padding: 0 10%;
+}
+
+.clients img {
+    margin: 15px 0;
+}
+
+.clients span {
+    font-style: italic;
+    color: #999999;
+    display: block;
+    margin-bottom: 80px;
+}
+
+.about {
+    background-color: black;
+    color: #fff;
+}
+
+.about .col {
+    margin: 50px 0 0;
+    text-align: center;
+    padding: 50px;
+}
+
+.about .col img {
+    padding: 30px 0;
+}
+
+.about .col form {
+    padding: 0;
+    text-align: left;
+}
+
+.about .col form .form-control {
+    background-color: black;
+    border: 0;
+    border-bottom: 1px solid #999;
+}
+
+.footer {
+    background-color: #00c7fc;
+    padding: 40px 0;
+    color: #fff;
+    text-align: center;
+}
+
+.footer ul {
+    list-style-type: none;
+}
+
+.footer ul li {
+    display: inline-block;
+}
+
+.footer ul li img {
+    padding: 0 14px;
+}
